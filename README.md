@@ -41,4 +41,10 @@ The analysis is driven by funnel_analysis_data.csv, which contains simulated e-c
 *Data Source: CSV / Flat File
 
 *Analytics & Visualization:  Power BI
-## Dashboard
+## Dashboards link
+-<a href = "https://github.com/johnpaulzoba143-oss/Symtech-project-3/blob/main/2.jpeg"> dashboard 1
+-<a href = "https://github.com/johnpaulzoba143-oss/Symtech-project-3/blob/main/WhatsApp%20Image%202026-07-01%20at%2012.40.05%20PM.jpeg"> dashboard 2
+## Dashboards
+<img width="857" height="487" alt="image" src="https://github.com/user-attachments/assets/d98bed4a-d7ec-452b-9383-0ad0e41182c8" />
+<img width="856" height="485" alt="image" src="https://github.com/user-attachments/assets/d915c2d2-8126-47ad-8031-0ab666d9e55d" />
+
